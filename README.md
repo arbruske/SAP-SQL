@@ -178,7 +178,7 @@ ZedSuite Order Status By Item Report:
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
-ZedSuite Order Status By Item Report:
+ZedSuite Sales History Report:
 -----------------------------------------
 [ZedSuite_Sales_History_Report SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Sales_History_Report%20SQL.sql)
 
