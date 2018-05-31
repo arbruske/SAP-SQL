@@ -126,7 +126,7 @@ ZedSuite AR Aging Report:
 
 ZedSuite Customer List Report:
 ---------------------------------
-[ZedSuite_AR_Aging_Report SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Customer_List%20SQL.sql)
+[ZedSuite_Customer_List SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Customer_List%20SQL.sql)
 
 ![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Customer_List.png)
 
@@ -141,3 +141,50 @@ ZedSuite Document Look-Up Report:
 
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
+
+ZedSuite Item Price List Report:
+---------------------------------
+[ZedSuite_Item_Price_List SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Item_Price_List%20SQL.sql)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Item_Price_List.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+ZedSuite Last Floor Soap Purchase Report:
+-----------------------------------------
+[ZedSuite_Last_Floor_Soap_Purchase SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Last_Floor_Soap_Purchase%20SQL.sql)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Last_Floor_Soap_Purchase.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+ZedSuite Last Power Sweeper Purchase Report:
+-----------------------------------------
+[ZedSuite_Last_Power_Sweeper_Purchase SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Last_Power_Sweeper_Purchase%20SQL.sql)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Last_Power_Sweeper_Purchase.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+ZedSuite Order Status By Item Report:
+-----------------------------------------
+[ZedSuite_Order_Status_By_Item SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Order_Status_By_Item%20SQL.sql)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Order_Status_By_Item.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+ZedSuite Order Status By Item Report:
+-----------------------------------------
+[ZedSuite_Sales_History_Report SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Sales_History_Report%20SQL.sql)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Sales_History_Report.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+
