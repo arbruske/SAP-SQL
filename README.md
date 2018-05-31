@@ -12,6 +12,19 @@ Crystal Report for Chemical Weekly Sales Report (sample page):
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
+Weekly Power Sweeper Sales Report:
+-----------------------------
+[Weekly_Power_Sweeper__Sales_Report.sql](https://github.com/arbruske/SAP-SQL/blob/master/Weekly_Power_Sweeper__Sales_Report.sql)
+
+Crystal Report for Power Sweeper Weekly Sales Report (sample pages):
+--------------------------------------------------------------
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Weekly_Power_Sweeper__Sales_Report.png)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Weekly_Power_Sweeper_Sales_Report_Sales_Figures.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
 Weekly Sales Commission Report:
 -------------------------------
 [Comission Statement SQL Code.sql](https://github.com/arbruske/SAP-SQL/blob/master/Comission%20Statement%20SQL%20Code.sql)
