@@ -23,10 +23,51 @@ Crystal Report for Weekly Sales Commission Report (sample pages):
 
 ![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Commission_Report_Sales_Rep_Example_2.png)
 
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 
+Monthly Independent Sales Rep Comission Report:
+-----------------------------------------------
+[Independent_Monthly_Commission_Report.sql](https://github.com/arbruske/SAP-SQL/blob/master/Independent_Monthly_Commission_Report.sql)
 
+Crystal Report for Monthly Independent Sales Rep Comission Report (sample page):
+--------------------------------------------------------------
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Independent_Monthly_Commission_Report.png)
 
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
 
+Received Credit Card Payments For All Customers:
+----------------------------------------------------
+[Received_Credit_Card_Payments_For_All_Customers SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Received_Credit_Card_Payments_For_All_Customers%20SQL.sql)
 
-![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/90-Day_Slow_Pay_Aged_Report.png) 
+Crystal Report for Received Credit Card Payments For All Customers (sample page):
+--------------------------------------------------------------
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Received_Credit_Card_Payments_For_All_Customers.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+Indiana State Tax Payable Report:
+---------------------------------
+[Indiana_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Indiana_State_Tax_Payable_SQL.sql)
+
+Crystal Report for Chemical Weekly Sales Report (sample page):
+--------------------------------------------------------------
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Indiana_State_Tax_Payable.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+Illinois State Tax Payable Report:
+---------------------------------
+[Illinois_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Illinois_State_Tax_Payable_SQL.sql)
+
+Crystal Report for Chemical Weekly Sales Report (sample page):
+--------------------------------------------------------------
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Illinois_State_Tax_Payable.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
 
