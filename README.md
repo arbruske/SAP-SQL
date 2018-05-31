@@ -94,7 +94,7 @@ Crystal Report for Minnesota State Tax Payable Report (sample page):
 
 Texas State Tax Payable Report:
 ---------------------------------
-[Texas_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Texas_State_Tax_Payable_SQL.sql)
+[Texas_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Texas_State_Tax_Payable_Report%20SQL.sql)
 
 Crystal Report for Texas State Tax Payable Report (sample page):
 --------------------------------------------------------------
@@ -105,7 +105,7 @@ Crystal Report for Texas State Tax Payable Report (sample page):
 
 Wisconsin State Tax Payable Report:
 ---------------------------------
-[Wisconsin_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Texas_State_Tax_Payable_SQL.sql)
+[Wisconsin_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Wisconsin_State_Tax_Payable_Report%20SQL.sql)
 
 Crystal Report for Wisconsin State Tax Payable Report (sample page):
 --------------------------------------------------------------
