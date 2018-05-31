@@ -114,4 +114,30 @@ Crystal Report for Wisconsin State Tax Payable Report (sample page):
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
+ZedSuite AR Aging Report:
+---------------------------------
+[ZedSuite_AR_Aging_Report SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_AR_Aging_Report%20SQL.sql)
 
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_AR_Aging_Report.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+
+ZedSuite Customer List Report:
+---------------------------------
+[ZedSuite_AR_Aging_Report SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Customer_List%20SQL.sql)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Customer_List.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
+ZedSuite Document Look-Up Report:
+---------------------------------
+[ZedSuite_Document_Look_Up SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/ZedSuite_Document_Look_Up%20SQL.sql)
+
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/ZedSuite_Document_Look_Up.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
