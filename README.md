@@ -20,8 +20,6 @@ Crystal Report for Power Sweeper Weekly Sales Report (sample pages):
 --------------------------------------------------------------
 ![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Weekly_Power_Sweeper__Sales_Report.png)
 
-![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Weekly_Power_Sweeper_Sales_Report_Sales_Figures.png)
-
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
