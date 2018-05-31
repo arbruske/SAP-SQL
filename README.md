@@ -103,4 +103,15 @@ Crystal Report for Texas State Tax Payable Report (sample page):
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
+Wisconsin State Tax Payable Report:
+---------------------------------
+[Wisconsin_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Texas_State_Tax_Payable_SQL.sql)
+
+Crystal Report for Wisconsin State Tax Payable Report (sample page):
+--------------------------------------------------------------
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Wisconsin_State_Tax_Payable_Report.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
 
