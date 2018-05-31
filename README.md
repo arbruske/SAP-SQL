@@ -14,7 +14,7 @@ Crystal Report for Chemical Weekly Sales Report (sample page):
 
 Weekly Sales Commission Report:
 -------------------------------
-
+[Comission Statement SQL Code.sql]https://github.com/arbruske/SAP-SQL/blob/master/Comission%20Statement%20SQL%20Code.sql
 
 Crystal Report for Weekly Sales Commission Report (sample pages):
 ----------------------------------------------------------------
