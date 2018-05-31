@@ -59,6 +59,17 @@ Crystal Report for Received Credit Card Payments For All Customers (sample page)
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
 
+90-Day Slow Pay Aged Report:
+----------------------------------------------------
+[90-Day_Slow_Pay_Aged_Report SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/90-Day_Slow_Pay_Aged_Report%20SQL.sql)
+
+Crystal Report for Received Credit Card Payments For All Customers (sample page):
+--------------------------------------------------------------
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/90-Day_Slow_Pay_Aged_Report.png)
+
+------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------
+
 Indiana State Tax Payable Report:
 ---------------------------------
 [Indiana_State_Tax_Payable_SQL.sql](https://github.com/arbruske/SAP-SQL/blob/master/Indiana_State_Tax_Payable_SQL.sql)
