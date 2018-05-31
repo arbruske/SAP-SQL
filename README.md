@@ -65,7 +65,7 @@ Michigan State Tax Payable Report:
 
 Crystal Report for Michigan State Tax Payable Report (sample page):
 --------------------------------------------------------------
-![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Michigan_State_Tax_Payable.png)
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Michigan_State_Tax_Payable_Report.png)
 
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
@@ -76,7 +76,7 @@ Ohio State Tax Payable Report:
 
 Crystal Report for Ohio State Tax Payable Report (sample page):
 --------------------------------------------------------------
-![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Ohio_State_Tax_Payable.png)
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Ohio_State_Tax_Payable_Report.png)
 
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
@@ -87,7 +87,7 @@ Minnesota State Tax Payable Report:
 
 Crystal Report for Minnesota State Tax Payable Report (sample page):
 --------------------------------------------------------------
-![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Minnesota_State_Tax_Payable.png)
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Minnesota_State_Tax_Payable_Report.png)
 
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ Texas State Tax Payable Report:
 
 Crystal Report for Texas State Tax Payable Report (sample page):
 --------------------------------------------------------------
-![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Texas_State_Tax_Payable.png)
+![Screenshot](https://github.com/arbruske/SAP-SQL/blob/master/images/Texas_State_Tax_Payable_Report.png)
 
 ------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------
